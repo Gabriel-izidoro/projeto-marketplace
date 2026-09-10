@@ -118,3 +118,12 @@
 **Plataforma:** Site, App
 **Status:** Pendente
 
+## Acessibilidade
+
+### RF-ACE-01 - Ajuste de tamanho de fonte
+**Descrição:** O sistema deve permitir que o usuário aumente ou diminua o tamanho da fonte do texto da interface
+**Prioridade:** Média
+**Atores:** Comprador, Lojista, Entregador
+**Plataforma:** Site, App
+**Status:** Pendente
+
