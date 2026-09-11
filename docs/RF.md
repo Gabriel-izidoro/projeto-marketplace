@@ -126,4 +126,3 @@
 **Atores:** Comprador, Lojista, Entregador
 **Plataforma:** Site, App
 **Status:** Pendente
-
